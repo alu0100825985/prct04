@@ -1,0 +1,3 @@
+PREGUNTAS DE LA PRÁCTICA 4 DE LABORATORIO - LPP
+1.-¿Qué es RVM (Ruby Version Manager)?
+Ruby Version Manager, frecuentemente abreviado como RVM, es una plataforma de software libre de UNIX diseñada para gestionar multiples instalaciones de Ruby en el mismo dispositivo.
