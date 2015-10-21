@@ -1,3 +1,9 @@
 PREGUNTAS DE LA PRÁCTICA 4 DE LABORATORIO - LPP
+
 1.-¿Qué es RVM (Ruby Version Manager)?
 Ruby Version Manager, frecuentemente abreviado como RVM, es una plataforma de software libre de UNIX diseñada para gestionar multiples instalaciones de Ruby en el mismo dispositivo.
+
+2.-¿Cuáles son las diferencias entre la ejecución del programa "Hola Mundo" con el intérprete
+de Ruby (ruby helloWorld.rb) y el intérprete interactivo del ejercicio anterior?
+IRB es un interprete interactivo de Ruby que le permite a un desarrollador ingresar comandos y bloques de código que posteriormente serán ejecutados por Ruby, se trata de una forma bastante sencilla de integrar lógica computacional en un interprete de linea de comandos.
+El intérprete interactivo nos permite ingresar las sentencias de una manera mucho más sencila y raṕida, comparado esto con el intérprete de Ruby.
